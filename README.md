@@ -27,7 +27,27 @@ Kaggle.com
 °Power Bi-for data visualization
 
 ### Data Preparation
-° 
+The following task were carried out in other to prepare the data for analysis.
+
+° Data Loading and inspection
+
+° Organisation of Data
+
+° Handling missing Values
+
+° Data Cleaning
+
+° Data Formatting
+
+### Exploratory Data Analysis
+
+-Dataset Size: Contains 244,000 customers generating ₦21 billion in total revenue and making 12 million calls.  
+
+-Market Landscape: Highly competitive and perfectly balanced. The market share is split almost equally among four major network operators (MTN, Airtel, Glo, 9Mobile), each managing around 49K active subscribers and experiencing roughly 12K churned subscribers.  
+
+-Operator Revenue: Revenue contribution is extremely tight across operators, led by MTN and Airtel at ₦5.19bn each , followed closely by Glo (₦5.17bn) and 9Mobile (₦5.16bn).  
+
+-Regional & Gender Splits: Across all tracked states (Lagos, Abuja, Akwa Ibom, Sokoto, Rivers, Abia) , male subscribers consistently generate higher revenue blocks (₦2.0bn – ₦2.1bn per state) compared to female subscribers (₦1.4bn per state)
 
 
 ### Key Results
