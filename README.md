@@ -4,7 +4,9 @@
 This project analyzes a telecom dataset of 7,043 customers to understand why people cancel their subscriptions (customer churn). The main goal is to find the core reasons behind customer losses, identify which products or contract types are losing the most money, and pinpoint exactly when new users are most likely to drop the service. These insights will help the business build better retention plans and protect monthly revenue.
 
 
-
+<img width="1232" height="700" alt="Screenshot 2026-05-25 at 14 40 41" src="https://github.com/user-attachments/assets/4edfa592-1ca5-42c2-9998-8a713e7550eb" />
+<img width="1229" height="706" alt="Screenshot 2026-05-25 at 14 41 17" src="https://github.com/user-attachments/assets/14be895b-bebc-44a1-8a75-9cdb635b96fb" />
+<img width="1230" height="689" alt="Screenshot 2026-05-25 at 14 41 58" src="https://github.com/user-attachments/assets/acf3a0e7-ab3b-44e6-ae50-1e8df5c1e961" />
 
 
 
